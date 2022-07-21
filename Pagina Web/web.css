@@ -1,0 +1,329 @@
+/*------------------------------introduccion------------*/
+body{         
+    margin: 0;
+}
+.home-page{
+    background-image: url(./Media/ladrillosneon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.introduccion h1{
+    border: 4px black;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 150;
+    margin-left: 80px;
+    background-color: black;
+    text-align: center;
+    color: rgb(252, 246, 246);
+    margin: 0%;
+    font-size: 40px;
+}
+.introduccion h3{
+    font-size: 32px;
+    color: white;
+}
+
+.introduccion2 h3{
+    font-size: 32px;
+    color: white;
+}
+.introduccion3 h3{
+    font-size: 32px;
+    color: white;
+}
+.home-page p{
+    padding: 30px 20px 50px 40px;
+    margin: 0%;
+    color: aliceblue;
+}
+.imagen-collage{
+    padding: 10px 20px 10px 30px;
+}
+.imagen-guerra{
+    padding: 10px 20px 10px 30px;
+}
+.la-ultima-cena{
+    padding: 10px 20px 10px 30px;
+}
+.a-continuacion h1{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    margin: 0%;
+}
+.a-continuacion ul{
+    margin: 0%;
+    font-size: 30px;
+    text-align: center;   
+}
+.a-continuacion a{
+    text-decoration: none;
+    color: white;
+}
+.a-continuacion a:hover{
+color: rgb(211, 42, 226);
+}
+/*---------------------------1980--------------*/
+.primeraFecha{
+margin: 0%;
+background-image: url(./Media/ladrillosneon.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+width: 100%;
+
+}
+.cronologia h1{
+    text-align: center;
+    color: rgb(252, 246, 246);
+    margin: 0%;
+    font-size: 40px;
+} 
+.cronologia h3{
+    color: white;
+    font-size: 30px;
+}
+.fallece-john a:hover{
+    color: pink;
+}
+.fallece-john a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.imagen-john{
+    padding: 10px 20px 20px 30px;
+}
+.irak a:hover{
+color: pink;
+}
+.irak a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.imagen-irak{
+    padding: 10px 20px 20px 30px;
+}
+.button a{
+    color: black;
+    font-size: 15px;
+}
+/*----------------------La muerte de John----------------------*/
+.intro-jhon{
+    margin: 0%;
+    background-image: url(./Media/ladrillosneon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.intro-jhon h1{
+    text-align: center;
+    color: rgb(252, 246, 246);
+    margin: 0%;
+    font-size: 40px;
+}
+.intro-jhon p{
+    color: white;
+    padding: 10px 20px 20px 30px;
+    font-size: 20px;
+    margin: 0%;
+}
+.button {
+    margin: 0%;
+}
+/*----------------------Invasion de Irak a Iran---------------------*/
+.intro-iran{
+    margin: 0%;
+    background-image: url(./Media/ladrillosneon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.intro-iran h1{
+text-align: center;
+color: white;
+margin: 0%;
+font-size: 40px;
+}
+.intro-iran p{
+    color: white;
+    padding: 10px 20px 20px 30px;
+    font-size: 20px;
+    margin: 0%;
+}
+/*---------------------1985----------------------------------*/
+.segundafecha{
+    margin: 0%;
+    background-image: url(./Media/ladrillosneon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.cronologia2 h1{
+    text-align: center;
+    color: rgb(252, 246, 246);
+    margin: 0%;
+    font-size: 40px;
+}
+.cronologia2 h3{
+    color: white;
+    font-size: 30px;
+}
+.terremoto-mexico a:hover{
+    color: pink;
+}
+.terremoto-mexico a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.imagenterremoto{
+    padding: 10px 20px 20px 30px;
+}
+.software a:hover{
+    color: pink;
+}
+.software a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.imagen-richard{
+    padding: 10px 20px 20px 30px;
+}
+.button a{
+    color: black;
+    font-size: 15px;
+}
+/*-------------Terremoto intro-----------*/
+.intro-terremoto{
+    margin: 0%;
+    background-image: url(./Media/ladrillosneon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.intro-terremoto h1{
+    text-align: center;
+    color: white;
+    margin: 0%;
+    font-size: 40px;
+}
+.intro-terremoto p{
+    color: white;
+    padding: 10px 20px 20px 30px;
+    font-size: 20px;
+    margin: 0%;
+}
+/*--------------------------------Software---------------*/
+.intro-software{
+    margin: 0%;
+    background-image: url(./Media/ladrillosneon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.intro-software h1{
+    text-align: center;
+    color: white;
+    margin: 0%;
+    font-size: 40px;
+}
+.intro-software p{
+    color: white;
+    padding: 10px 20px 20px 30px;
+    font-size: 20px;
+    margin: 0%;
+}
+/*-------------------------1990---------*/
+.tercerfecha{
+    margin: 0%;
+    background-image: url(./Media/ladrillosneon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.cronologia3 h1{
+    text-align: center;
+    color: rgb(252, 246, 246);
+    margin: 0%;
+    font-size: 40px;
+}
+.cronologia3 h3{
+    color: white;
+    font-size: 30px;
+}
+.game-boy a:hover{
+    color: pink;
+}
+.game-boy a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.imagen-gameboy{
+    padding: 10px 20px 20px 30px;
+}
+.don-ramon a:hover{
+    color: pink;
+}
+.don-ramon a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.imagen-donramon{
+    padding: 10px 20px 20px 30px;
+}
+/*-------------------game boy--------------------*/
+.intro-gameboy{
+    margin: 0%;
+    background-image: url(./Media/ladrillosneon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.intro-gameboy h1{
+    text-align: center;
+    color: white;
+    margin: 0%;
+    font-size: 40px;
+}
+.intro-gameboy p{
+    color: white;
+    padding: 10px 20px 20px 30px;
+    font-size: 20px;
+    margin: 0%;
+}
+/*-----------------------Don Ramon------------*/
+.intro-donramon{
+    margin: 0%;
+    background-image: url(./Media/ladrillosneon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.intro-donramon h1{
+    text-align: center;
+    color: white;
+    margin: 0%;
+    font-size: 40px;
+}
+.intro-donramon p{
+    color: white;
+    padding: 10px 20px 20px 30px;
+    font-size: 20px;
+    margin: 0%;
+}
